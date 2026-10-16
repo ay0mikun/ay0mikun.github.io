@@ -59,8 +59,9 @@ p {
 
 @media (max-width: 600px) {
   body {
-    background-position: center 80px;
-    padding: 24px 24px 104px;
+    background-size: cover;
+    background-position: center bottom;
+    /*padding: 24px 24px 104px;*/
   }
 
   .big-text {
